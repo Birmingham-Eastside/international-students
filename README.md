@@ -15,6 +15,7 @@ Data from year 2016-17 <a href="https://www.hesa.ac.uk/news/11-01-2018/sfr247-hi
 The file below shows the analysis done by the Birmingham Eastside team to sum students from the UK and internationals per year and calculate proportions. 
 <ul>
   <li><a href="https://github.com/Birmingham-Eastside/international-students/blob/master/Students%20in%20Birmingham%20universities%202013-2017.xlsx">XLSX: Students in Birmingham universities 2013-2017</a></li>
+</ul>
 
 # Visualisation
 All the charts were designed using Datawrapper. 
